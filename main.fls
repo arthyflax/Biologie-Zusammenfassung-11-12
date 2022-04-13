@@ -160,14 +160,14 @@ INPUT C:\Users\matth\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\matth\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\matth\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
 INPUT C:\Users\matth\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
-OUTPUT main.pdf
-INPUT C:\Users\matth\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT .\images\\Proteine_Primär.jpg
 INPUT images\\Proteine_Primär.jpg
 INPUT .\images\\Proteine_Primär.jpg
+OUTPUT main.pdf
 INPUT .\images\\Proteine_Primär.jpg
 INPUT .\images\\Proteine_Primär.jpg
 INPUT .\images\\Proteine_Primär.jpg
+INPUT C:\Users\matth\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Users\matth\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cbgreek\grmn1000.tfm
 INPUT .\images\\Proteine_Sekundär.jpg
 INPUT images\\Proteine_Sekundär.jpg

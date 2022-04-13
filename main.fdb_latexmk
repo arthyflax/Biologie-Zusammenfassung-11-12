@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1649872151 "c:/Dev/LaTex/main.tex" "main.pdf" "main" 1649872152
+["pdflatex"] 1649872613 "c:/Dev/LaTex/main.tex" "main.pdf" "main" 1649872614
   "C:/Users/matth/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1649870383 111117 1893ee98a909f5c79a3d60dcc05388f0 ""
   "C:/Users/matth/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1649765984 10246961 5e99db4323e3fb5a15fd91e134e3d1e9 ""
   "C:/Users/matth/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cbgreek/grmn1000.tfm" 1199120280 2832 eba925ba5e32fe347e9766e6c16d224b ""
@@ -41,12 +41,12 @@
   "C:/Users/matth/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1644218660 29921 d0acc05a38bd4aa3af2017f0b7c137ce ""
   "C:/Users/matth/AppData/Local/Programs/MiKTeX/tex/latex/textgreek/textgreek.sty" 1318842019 9426 724c44018d4e53e78174ee5ba5fbca62 ""
   "C:/Users/matth/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1636288472 56029 3f7889dab51d620aa43177c391b7b190 ""
-  "c:/Dev/LaTex/main.tex" 1649872150 5370 617351565443f7c38d6264e951b240d3 ""
+  "c:/Dev/LaTex/main.tex" 1649872612 5371 c9d86532350a7215f272c39ecbed8ace ""
   "images//Proteine_Primär.jpg" 1649869556 35504 1b81f931b4832044a893926e069bc790 ""
   "images//Proteine_Sekundär.jpg" 1649870449 43268 bb9de29f4c8428ecc8d326a9ff758bac ""
   "images//Proteine_Tertiär.jpg" 1649870642 55344 dd5d364ed472c55c2f9842043c468e7d ""
-  "main.aux" 1649872152 1483 f1b8b3dc97baf7c3d7440c5775b20df3 "pdflatex"
-  "main.tex" 1649872150 5370 617351565443f7c38d6264e951b240d3 ""
+  "main.aux" 1649872614 1483 f1b8b3dc97baf7c3d7440c5775b20df3 "pdflatex"
+  "main.tex" 1649872612 5371 c9d86532350a7215f272c39ecbed8ace ""
   (generated)
   "main.aux"
   "main.log"
